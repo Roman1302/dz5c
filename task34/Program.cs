@@ -41,7 +41,7 @@ void viewArr(int[] arr)
     }
     Console.WriteLine(result);
 }
-
+Console.WriteLine("Программа, которая показывает количество чётных чисел в массиве");
 int[] array = createArray();
 viewArr(array);
 Console.WriteLine(searchNumbers(array));
