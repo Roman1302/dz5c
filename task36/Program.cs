@@ -21,6 +21,7 @@ int[] ArrayOutput()
     return array;
 }
 
+Console.WriteLine("Программа вывода суммы элементов, стоящих на нечётных позициях массива");
 var array = ArrayOutput();
 
 Console.WriteLine();
